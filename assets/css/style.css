@@ -394,7 +394,7 @@ textarea.form-control {
 }
 
 /* ---------------------------------------------- /*
- * Servise
+ * Service
 /* ---------------------------------------------- */
 
 .iconbox {
@@ -414,6 +414,21 @@ textarea.form-control {
 .iconbox-title {
 	margin: 0 0 15px;
 	padding: 0;
+}
+
+.tag-list {
+	position: relative;
+	bottom: 10px;
+}
+
+#tag-list2 {
+	position: relative;
+	bottom: 20px;
+}
+
+#tag-list3 {
+	position: relative;
+	top: 10px;
 }
 
 /* ---------------------------------------------- /*
@@ -904,7 +919,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtrotator .cbp-qtcontent.cbp-qtcurrent,
 .no-js .cbp-qtrotator .cbp-qtcontent {
-	position: relative; 
+	position: relative;
 	z-index: 100;
 	pointer-events: auto;
 	opacity: 1;
@@ -957,7 +972,7 @@ figure.effect-bubba:hover p {
 }
 
 /* Example for media query */
-@media screen and (max-width: 30.6em) { 
+@media screen and (max-width: 30.6em) {
 
 	.cbp-qtrotator {
 		font-size: 70%;
@@ -968,4 +983,3 @@ figure.effect-bubba:hover p {
 	}
 
 }
-

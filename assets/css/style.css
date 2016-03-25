@@ -431,6 +431,11 @@ textarea.form-control {
 	top: 10px;
 }
 
+#tag-list4 {
+	position: relative;
+	top: 30px;
+}
+
 /* ---------------------------------------------- /*
  * Skills
 /* ---------------------------------------------- */
@@ -460,6 +465,19 @@ textarea.form-control {
     font-size: 50%;
     margin-left: 0.1em;
 }
+
+.icon-container {
+	position: relative;
+	top: 25px;
+	left: 25px;
+}
+
+.icon-js-container {
+	position: relative;
+	top: 32px;
+	left: 33px;
+}
+
 
 /* ---------------------------------------------- /*
  * Contact

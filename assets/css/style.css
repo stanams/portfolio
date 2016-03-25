@@ -585,9 +585,10 @@ textarea.form-control {
 }
 
 .navbar-custom .navbar-brand {
-	font-weight: 700;
+	font-weight: 600;
 	font-size: 22px;
-    font-family: Lobster, cursive;
+    font-family: 'Open Sans', sans-serif;
+		font-style: italic;
 }
 
 .navbar-custom .dropdown-menu {

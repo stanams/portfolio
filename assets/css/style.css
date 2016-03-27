@@ -418,12 +418,12 @@ textarea.form-control {
 
 .tag-list {
 	position: relative;
-	bottom: 10px;
+	bottom: 15px;
 }
 
 #tag-list2 {
 	position: relative;
-	bottom: 20px;
+	bottom: 30px;
 }
 
 #tag-list3 {
@@ -433,7 +433,7 @@ textarea.form-control {
 
 #tag-list4 {
 	position: relative;
-	top: 30px;
+	top: 10px;
 }
 
 /* ---------------------------------------------- /*
@@ -908,6 +908,7 @@ figure.effect-bubba:hover p {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
+
 
 /*-----------------------*/
 /***** Quote Rotator *****/
